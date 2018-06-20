@@ -25,6 +25,6 @@ Formulaire :
 
 
 La modification de l'objet marche mais je n'ai pas réussi a envoyer mon objet dans ma requete vers mon fichier php qui enregistre 
-le json. J'ai quand même mis en place la sauvegarde avec le contenue d'un fichier json existant.
+le json. J'ai quand même mis en place la sauvegarde avec le contenu d'un fichier json existant.
 
 Florent PAPY - M1
