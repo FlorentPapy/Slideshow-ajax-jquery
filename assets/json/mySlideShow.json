@@ -1,0 +1,212 @@
+{
+    "slideshow":{
+        "name":"Mon slide show",
+        "delayBetweenSlides": 1000,
+        "animation":"fadeIn",
+        "sound":"audio/rave_digger",
+        "slides":[
+            {
+                "delay" : 1500,
+                "transition" : "swing",
+                "name" : "Slide Départ",
+                "image":{
+                    "URL":"image/image1.jpg",
+                    "animation":{
+                        "type":"zoom",
+                        "from":0.9,
+                        "to":1.2
+                    }
+                },
+                "text":{
+                    "content":"Ceci est une démo pour Azure Voyage",
+                    "animation":{
+                        "type":"move",
+                        "from":[100,200],
+                        "to":[150,200]
+                    },
+                    "css":{
+                        "font-size" : "50px",
+                        "font-family" : "Arial",
+                        "color" : "white",
+                        "position" : "absolute",
+                        "top" : "54%",
+                        "left" : "30%"
+                    }
+                }
+            },
+            {
+                "delay" : 2000,
+                "transition" : "swing",
+                "name" : "Paysage 1",
+                "image":{
+                    "URL":"image/image2.jpg",
+                    "animation":{
+                        "type":"zoom",
+                        "from":1.2,
+                        "to":0.9
+                    }
+                },
+                "text":{
+                    "content":"De belles plages",
+                    "animation":{
+                        "type":"move",
+                        "from":[180,200],
+                        "to":[100,200]
+                    },
+                    "css":{
+                        "font-size" : "30px",
+                        "font-family" : "cursive",
+                        "color" : "white",
+                        "position" : "absolute",
+                        "top" : "3%",
+                        "left" : "80%"
+                    }
+                }
+            },
+            {
+                "delay" : 1500,
+                "transition" : "swing",
+                "name" : "Paysage 2",
+                "image":{
+                    "URL":"image/image3.jpg",
+                    "animation":{
+                        "type":"move",
+                        "from":1.2,
+                        "to":0.9
+                    }
+                },
+                "text":{
+                    "content":"De belles montagnes",
+                    "animation":{
+                        "type":"move",
+                        "from":[180,200],
+                        "to":[100,200]
+                    },
+                    "css":{                        
+                        "font-size" : "60px",
+                        "font-family" : "arial",
+                        "color" : "orange",
+                        "position" : "absolute",
+                        "top" : "85%",
+                        "left" : "10%"
+                    }
+                }
+            },
+            {
+                "delay" : 3000,
+                "transition" : "swing",
+                "name" : "Paysage 3",
+                "image":{
+                    "URL":"image/image4.jpg",
+                    "animation":{
+                        "type":"zoom",
+                        "from":1.2,
+                        "to":0.9
+                    }
+                },
+                "text":{
+                    "content":"Une cascade paradisiaque",
+                    "animation":{
+                        "type":"move",
+                        "from":[180,200],
+                        "to":[100,200]
+                    },
+                    "css":{
+                        "font-size" : "40px",
+                        "font-family" : "sans-serif",
+                        "color" : "green",
+                        "position" : "absolute",
+                        "top" : "10%",
+                        "left" : "30%"
+                    }
+                }
+            },
+            {
+                "delay" : 500,
+                "transition" : "swing",
+                "name" : "Paysage 4",
+                "image":{
+                    "URL":"image/image5.jpg",
+                    "animation":{
+                        "type":"zoom",
+                        "from":1.2,
+                        "to":0.9
+                    }
+                },
+                "text":{
+                    "content":"Toujours des montagnes",
+                    "animation":{
+                        "type":"move",
+                        "from":[180,200],
+                        "to":[100,200]
+                    },
+                    "css":{
+                        "font-size" : "50px",
+                        "font-family" : "cursive",
+                        "color" : "black"
+                    }
+                }
+            },
+            {
+                "delay" : 1000,
+                "transition" : "swing",
+                "name" : "Paysage 5",
+                "image":{
+                    "URL":"image/image6.jpg",
+                    "animation":{
+                        "type":"zoom",
+                        "from":1.2,
+                        "to":0.9
+                    }
+                },
+                "text":{
+                    "content":"Un lac dans la montagne",
+                    "animation":{
+                        "type":"move",
+                        "from":[180,200],
+                        "to":[100,200]
+                    },
+                    "css":{
+                        "font-size" : "50px",
+                        "font-family" : "verdana",
+                        "color" : "green",
+                        "position" : "absolute",
+                        "text-align" : "center",
+                        "top" : "5%",
+                        "left" : "5%"
+                    }
+                }
+            },
+            {
+                "delay" : 1500,
+                "transition" : "swing",
+                "name" : "Slide Credits",
+                "image":{
+                    "URL":"image/credit.jpg",
+                    "animation":{
+                        "type":"move",
+                        "from":1.2,
+                        "to":0.9
+                    }
+                },
+                "text":{
+                    "content":"Florent Papy - florent.papy@ynov.com",
+                    "animation":{
+                        "type":"move",
+                        "from":[180,200],
+                        "to":[100,200]
+                    },
+                    "css":{
+                        "font-size" : "75px",
+                        "font-family" : "cursive",
+                        "color" : "black",
+                        "position" : "absolute",
+                        "text-align" : "center",
+                        "top" : "25%",
+                        "left" : "10%"
+                    }
+                }
+            }
+        ]
+    }
+}

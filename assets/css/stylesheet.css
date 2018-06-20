@@ -1,0 +1,55 @@
+.forms {
+	margin: 20px;
+	padding: 20px;
+}
+
+.center{
+	text-align: center;
+}
+
+.titre {
+	padding-bottom: 5%;
+}
+
+.padding {
+	margin: 5px;
+	text-align: center;
+}
+
+#slideshow {
+  color: white;
+  margin: 5px auto;
+  position: relative;
+  width: 1280px;
+  height: 720px;
+  padding: 10px;
+}
+
+.img {
+  width: 1280px;
+  height: 720px;
+}
+
+.btn-group {
+ position: fixed;
+ top: 3%;
+ left: 30%;
+}
+
+.btn-group button {
+ background-color: #555555;
+ border: none;
+ color: white;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ cursor: pointer;
+ border-radius: 50%;
+}
+
+.miniature {
+	width: 426px;
+	height: 240px;
+}
